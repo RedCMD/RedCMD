@@ -2,8 +2,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RedCMD&theme=onedark#gh-dark-mode-only)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=RedCMD#gh-light-mode-only)
-
 **Kindly Upvote These Feature Requests** (react with 👍):
 * https://github.com/microsoft/vscode/issues/205503 Add `Manual` to `CompletionTriggerKind`
 * https://github.com/microsoft/vscode/issues/204926 Enable middle clicking folding ranges in Sticky Scroll (editor)
