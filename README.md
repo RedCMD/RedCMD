@@ -11,3 +11,4 @@
 * https://github.com/microsoft/vscode/issues/202909 Fix 0width `Diagnostic` range using `"wordPattern"`
 * https://github.com/microsoft/vscode/issues/197970 Fix `"colorizedBracketPairs"` only supporting lowercase, but matching is case insensitive
 * https://github.com/microsoft/vscode/issues/201106 Remove Linked Bracket On Delete
+* https://github.com/microsoft/vscode/issues/206192 Show Comments in TextMate Scope Inspector
