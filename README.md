@@ -14,3 +14,4 @@
 * https://github.com/microsoft/vscode/issues/204018 Include `Paste&Cut` in `TextDocumentChangeEvent.reason<TextDocumentChangeReason>`
 * https://github.com/microsoft/vscode/issues/204216 Regex search: highlight groups in matching preview
 * https://github.com/microsoft/vscode/issues/202909 Don't use `"wordPattern"` for 0width Diagnostic range
+* https://github.com/microsoft/vscode/issues/207159 Option to force snippet body as description
