@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">RedCMD's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 99, Total Commits  (last year) : 354, Total PRs: 126, Total Issues: 342, Contributed to (last year): 56</desc>
+        <desc id="descId">Total Stars Earned: 99, Total Commits  (last year) : 354, Total PRs: 126, Total Issues: 343, Contributed to (last year): 56</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.09334736666975;
+        stroke-dashoffset: 71.08238518649851;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >342</text>
+      >343</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
